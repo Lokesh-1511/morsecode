@@ -155,7 +155,13 @@ Feel free to contribute by:
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+## � Team Members
+
+- **2023503513 - Lokesh R N**
+- **2023503514 - Kishor M**
+- **2023503031 - Arumuga Perumal G**
+
+## �🙏 Acknowledgments
 
 - OpenCV community for computer vision tools
 - MediaPipe team for facial landmark detection
